@@ -10,5 +10,5 @@
     The first player to score 100 or more points wins.<a href="https://vishnuvp257.github.io/pig-game/" target=" ">Link</a>
     
     
-    ![WhatsApp Image 2021-11-29 at 3 08 36 PM](https://user-images.githubusercontent.com/82942912/143844421-9ce789e7-fe01-45c9-be2a-3a8e3c979e2e.jpeg)
+   
 
