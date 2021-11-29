@@ -9,5 +9,5 @@ Each turn, a player repeatedly rolls a die until either a 1 is rolled or the pla
 </ul>
 The first player to score 100 or more points wins.<a href="https://vishnuvp257.github.io/pig-game/" target=" ">Link</a>
 
-
+<b>For Android mobiles</b> Scan QR code below play it in desktop site!!
 <img src="./img/QRcode.jpeg">
